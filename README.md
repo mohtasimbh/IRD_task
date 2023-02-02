@@ -17,7 +17,7 @@ To deploy this project run
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/61247278/216463593-0555f209-9873-4244-8db4-7dcc9f47b0e7.mp4)
-![2](![photo_2023-02-03_04-26-27](https://user-images.githubusercontent.com/61247278/216463628-ca80437a-74c8-4a11-870d-f6e473672435.jpg))
+![2](https://user-images.githubusercontent.com/61247278/216463628-ca80437a-74c8-4a11-870d-f6e473672435.jpg))
 
 ## Feedback
 
