@@ -1,16 +1,27 @@
-# ird
+# IRD Mobile App Testing 
 
-A new Flutter project.
+This is UI model of the Task App. 
 
-## Getting Started
+## Deployment
 
-This project is a starting point for a Flutter application.
+To deploy this project run
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  flutter pub get
+  open -a simulator (to get iOS or andriod Simulator)
+  flutter run
+  flutter run -d chrome --web-renderer html (to see the best output)
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/61247278/216463593-0555f209-9873-4244-8db4-7dcc9f47b0e7.mp4)
+![2](![photo_2023-02-03_04-26-27](https://user-images.githubusercontent.com/61247278/216463628-ca80437a-74c8-4a11-870d-f6e473672435.jpg))
+
+## Feedback
+
+If you have any feedback, please reach out to me at shakilwell0@gmail.com
+
+
+
